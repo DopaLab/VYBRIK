@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+keystore.properties
+*.jks
+*.keystore
+backend-proxy/.dev.vars
+backend-proxy/node_modules/

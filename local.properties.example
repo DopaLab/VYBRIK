@@ -1,0 +1,10 @@
+# Copy this file to local.properties. Android Studio normally adds sdk.dir.
+sdk.dir=C\:\\Users\\YOUR_NAME\\AppData\\Local\\Android\\Sdk
+
+# Development-only direct API access. R8 obfuscates this value but cannot make a
+# client-embedded secret impossible to extract.
+API_SPORTS_KEY=
+
+# Production: deploy backend-proxy and place its URL here, ending with a slash.
+# When this is set, the Android app does not embed or send API_SPORTS_KEY.
+SPORTS_PROXY_BASE_URL=

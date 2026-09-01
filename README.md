@@ -131,7 +131,7 @@ If VYBRIK helps you and you are able to contribute, you can support development 
 
 ## Brand
 
-VYBRIK and its urban-modern artwork are presented as a working product identity. Before commercial redistribution under the same name, perform the appropriate trademark and store-listing checks for your region.
+VYBRIK the best scheduling and alarm hybrid you can find.
 
 ---
 
